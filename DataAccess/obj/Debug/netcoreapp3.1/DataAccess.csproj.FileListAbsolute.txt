@@ -12,3 +12,4 @@ C:\Users\omerd\source\repos\Textile\DataAccess\obj\Debug\netcoreapp3.1\DataAcces
 C:\Users\omerd\source\repos\Textile\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\omerd\source\repos\Textile\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\omerd\source\repos\Textile\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\omerd\source\repos\Textile\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig

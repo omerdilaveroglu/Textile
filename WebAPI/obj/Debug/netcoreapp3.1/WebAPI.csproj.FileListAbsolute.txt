@@ -91,3 +91,4 @@ C:\Users\omerd\source\repos\Textile\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pip
 C:\Users\omerd\source\repos\Textile\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\omerd\source\repos\Textile\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\omerd\source\repos\Textile\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+C:\Users\omerd\source\repos\Textile\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig

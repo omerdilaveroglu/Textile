@@ -14,3 +14,4 @@ C:\Users\omerd\source\repos\Textile\Business\obj\Debug\netcoreapp3.1\Business.cs
 C:\Users\omerd\source\repos\Textile\Business\obj\Debug\netcoreapp3.1\Business.dll
 C:\Users\omerd\source\repos\Textile\Business\obj\Debug\netcoreapp3.1\Business.pdb
 C:\Users\omerd\source\repos\Textile\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\omerd\source\repos\Textile\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
